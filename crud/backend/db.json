@@ -1,0 +1,19 @@
+{
+    "prducts": [
+    {
+        "id": 1,
+        "name": "Ferrari Enzo",
+        "price": 500.000
+    },
+    {
+        "id": 2,
+        "name": "Mustang GT",
+        "price": 320.000
+    },
+    {
+        "id": 3,
+        "name": "Gol G5",
+        "price": 25.000
+    }
+]
+}
